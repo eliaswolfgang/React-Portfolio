@@ -8,7 +8,7 @@ function Header() {
     return (
         <Container fluid>
             <Router>
-                <Navbar collapseOnSelect expand="lg" bg="primary" variant="dark" fluid>
+                <Navbar collapseOnSelect expand="lg" bg="light" variant="dark" fluid>
                     <Navbar.Brand> <Link to="/">Ian Von Fange</Link></Navbar.Brand>
                     <Navbar.Toggle aria-controls="responsive-navbar-nav" />
                     <Navbar.Collapse id="responsive-navbar-nav">
