@@ -14,7 +14,7 @@ function About() {
                         <Card.Title>About Me</Card.Title>
                         <Card.Body className="row">
                             <Col>
-                                <img src={headshot} className="rounded float-left px-2" alt="Headshot1" width='45%' />
+                                <img src={headshot} id="headshot" className="rounded float-left px-2" alt="Headshot1" width='45%' />
                                 <Card.Text>
                                     My name is Ian E. W. Von Fange. I'm a former barista and forever coffee nerd who
                                     loves to figure stuff out! I'm a third generation Kansas Citian, but I studied theatre and
