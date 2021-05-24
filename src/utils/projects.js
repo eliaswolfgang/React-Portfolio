@@ -34,6 +34,18 @@ export const projects = [
         description: "A full-stack task management app (Express, Handlebars, Sequelize).",
         website: "https://routinify.herokuapp.com/",
         gitHub: "https://github.com/Keaton-Brewster/project-2"
+    },
+    {
+        name: "Vision Boarder",
+        description: "Single-page app allowing users to create vision boards, spurring inspiration and motivation for their next project. (Sequelize, Express, React)",
+        website: "https://vision-board-learning-place.herokuapp.com",
+        gitHub: "https://github.com/maggiemaywilder/vision-board"
+    },
+    {
+        name: "Password Generator",
+        description: "Dynamic password generator application that randomly generates a password based on a length specified by the user. Through a series of prompts, users are given the option to include lowercase letters, uppercase letters, numbers, and special characters in their passwords.",
+        website: "https://eliaswolfgang.github.io/Password-Generator/",
+        gitHub: "https://github.com/eliaswolfgang/Password-Generator"
     }
 
 ]
