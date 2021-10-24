@@ -30,8 +30,9 @@ function About() {
                         </Card.Body>
                         <Card.Body className="row">
                             <Col>
-                                <Card.Text>I’m interested in software that improves communication, enriches natural language, and utilizes dynamic UIs,
-                                and I am looking to break into the software development industry as a Junior Developer or QA Engineer.
+                                <Card.Text>I’m interested in software that improves communication, enriches natural language, and utilizes dynamic UIs. I currently work
+                                    as an Application Developer for KVC Health Systems. My first major project with the development team is building React applications
+                                    based on legacy AngularJS apps.
                                 </Card.Text>
                             </Col>
                         </Card.Body>
