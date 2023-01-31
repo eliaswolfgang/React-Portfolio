@@ -48,4 +48,11 @@ export const projects = [
     website: 'https://eliaswolfgang.github.io/Password-Generator/',
     gitHub: 'https://github.com/eliaswolfgang/Password-Generator',
   },
+  {
+    name: 'group-maker',
+    description:
+      'CLI-based Student Management (designed for Trilogy Education Bootcamps)',
+    website: 'https://www.npmjs.com/package/group-maker/v/1.1.6',
+    gitHub: 'https://github.com/JaynewDee/grouper-js',
+  },
 ];
