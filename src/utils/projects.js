@@ -37,7 +37,7 @@ export const projects = [
   {
     name: 'Just Tech News',
     description:
-      'A full-stack social media app for developers to share links (React, Sequelize, Material UI).',
+      'A full-stack social media app for developers to share links (React, GraphQL, Sequelize, Material UI).',
     website: 'https://ivf-tech-news.herokuapp.com/',
     gitHub: 'https://github.com/eliaswolfgang/just-tech-news',
   },
